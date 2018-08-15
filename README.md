@@ -1,4 +1,4 @@
-# Experiments for Adaptive Skip Intervals
+# Adaptive Skip Intervals - Experiments
 
 This repository includes code to reproduce the results in the paper [Adaptive Skip Intervals: Temporal Abstraction for Recurrent Dynamical Models](https://arxiv.org/abs/1808.04768).
 
@@ -26,7 +26,7 @@ Code to generate datasets is available in the separate repository:
 https://github.com/neitzal/asi-tasks
 
 
-# Dependencies
+## Dependencies
 - imageio==2.1.2
 - keras==2.1.3
 - moviepy==0.2.3.2
@@ -39,7 +39,7 @@ https://github.com/neitzal/asi-tasks
 - tensorflow==1.5.0
 - tqdm==4.11.2
 
-# Training the ASI model
+## Training the ASI model
 To train the ASI model, please run, for example
 ```
 python -m experiment.run_experiment 
