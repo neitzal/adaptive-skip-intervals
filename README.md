@@ -3,10 +3,10 @@
 This repository includes code to reproduce the results in the paper [Adaptive Skip Intervals: Temporal Abstraction for Recurrent Dynamical Models](https://arxiv.org/abs/1808.04768).
 
 ```
-@article{neitz2018adaptive,
+@inproceedings{neitz2018adaptive,
   title={Adaptive Skip Intervals: Temporal Abstraction for Recurrent Dynamical Models},
   author={Neitz, Alexander and Parascandolo, Giambattista and Bauer, Stefan and Sch{\"o}lkopf, Bernhard},
-  journal={arXiv preprint arXiv:1808.04768},
+  booktitle={Advances in Neural Information Processing Systems (NIPS)},
   year={2018}
 }
 ```
